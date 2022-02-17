@@ -1,6 +1,11 @@
 {
   "name": "@sy97/shuihu",
   "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
+  },
   "description": "Generate mock data based on Shuihu(水浒传) a.k.a Water Margin",
   "keywords": [
     "shuihu",
@@ -22,7 +27,13 @@
   "bugs": {
     "url": "https://github.com/sy97/shuihu/issues"
   },
+  "files": ["dist/**/*"],
   "main": "index.js",
-  "scripts": {
+  "types": "index.d.ts",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.5.5"
   }
 }
