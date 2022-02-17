@@ -14,13 +14,13 @@
   ],
   "author": "sy97",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "git@github.com:sy97/shuihu.git",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/sy97/shuihu.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/sy97/shuihu/issues"
   },
   "main": "index.js",
   "scripts": {
