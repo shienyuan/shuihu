@@ -1,12 +1,28 @@
 {
-  "name": "shuihu",
+  "name": "@sy97/shuihu",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate mock data based on Shuihu(水浒传) a.k.a Water Margin",
+  "keywords": [
+    "shuihu",
+    "shuihuzhuan",
+    "水浒",
+    "水浒传",
+    "mock",
+    "mock data",
+    "faker",
+    "faker.js"
+  ],
+  "author": "sy97",
+  "license": "MIT",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
