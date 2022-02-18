@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "constellation": "天魁星",
+    "nickname": "及时雨",
+    "name": "宋江",
+    "position": "总兵都头领"
+  },
+  {
+    "id": 2,
+    "constellation": "天罡星",
+    "nickname": "玉麒麟",
+    "name": "卢俊义",
+    "position": "总兵都头领"
+  },
+  {
+    "id": 3,
+    "constellation": "天机星",
+    "nickname": "智多星",
+    "name": "吴用",
+    "position": "掌管机密军师"
+  },
+  {
+    "id": 4,
+    "constellation": "天闲星",
+    "nickname": "入云龙",
+    "name": "公孙胜",
+    "position": "掌管机密军师"
+  },
+  {
+    "id": 5,
+    "constellation": "天勇星",
+    "nickname": "大刀",
+    "name": "关胜",
+    "position": "左军大将"
+  }
+]
